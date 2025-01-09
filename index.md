@@ -1,5 +1,5 @@
 ---
-title: Krishan Rana
+title: Dr. Krishan Rana
 layout: default
 ---
 
