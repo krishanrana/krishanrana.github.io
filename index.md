@@ -15,7 +15,7 @@ Hi! I am a postdoctoral researcher at the QUT Centre for Robotics working on **r
 Fast and Sample Efficient Visuomotor Policy Learning via Implicit Maximum Likelihood Estimation"</em> 2025 Robotics: Science and Systems(RSS)<br/>
 [[Paper]](https://www.roboticsproceedings.org/rss21/p158.pdf) [[Site]](https://imle-policy.github.io/)
 
-2. &nbsp; <img class="project-picture" src="images/realissim.gif"> Abou-Chakra, J., Sun, L., <b>Rana, K.</b>, May, B., Schmeckpeper, K., Mnniti, M., Herlant, L., & Sünderhauf, N. <em>"Real-is-Sim: Bridging the Sim-to-Real Gap with a Dynamic Digital Twin for Real-World Robot Policy Evaluation"</em> [under review - CoRL 2025])<br/>
+2. &nbsp; <img class="project-picture" src="images/realissim.png"> Abou-Chakra, J., Sun, L., <b>Rana, K.</b>, May, B., Schmeckpeper, K., Mnniti, M., Herlant, L., & Sünderhauf, N. <em>"Real-is-Sim: Bridging the Sim-to-Real Gap with a Dynamic Digital Twin for Real-World Robot Policy Evaluation"</em> [under review - CoRL 2025])<br/>
 [[Paper]](https://arxiv.org/abs/2504.03597v1) [[Site]](https://realissim.rai-inst.com/)
 
 3. &nbsp; <img class="project-picture" src="images/long_horizon_gif.gif"> <b>Rana, K.</b>, Abou-Chakra, J., Garg, S., Lee, R., Reid, I., & Sünderhauf, N. <em>"Affordance-Centric Policy Decomposition :
