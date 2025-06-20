@@ -11,7 +11,7 @@ Hi! I am a postdoctoral researcher at the QUT Centre for Robotics working on **r
 
 
 ## Publications
-1. &nbsp; <img class="project-picture" src="images/main_imle.png"> <b>Rana, K.</b>, Lee, R., Pershouse, D., & Sünderhauf, N. <em>"IMLE Policy:
+1. &nbsp; <img class="project-picture" src="images/imle_main.png"> <b>Rana, K.</b>, Lee, R., Pershouse, D., & Sünderhauf, N. <em>"IMLE Policy:
 Fast and Sample Efficient Visuomotor Policy Learning via Implicit Maximum Likelihood Estimation"</em> 2025 Robotics: Science and Systems(RSS)<br/>
 [[Paper]](https://www.roboticsproceedings.org/rss21/p158.pdf) [[Site]](https://imle-policy.github.io/)
 
