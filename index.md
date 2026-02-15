@@ -7,7 +7,7 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-Hi! I am a postdoctoral researcher at the QUT Centre for Robotics working on **robot learning** which lies at the intersection of AI and robotics with a focus on **teaching robots to intelligently plan and interact with the world** in order to solve everyday tasks. Feel free to contact me via <ranak@qut.edu.au>.
+I am a co-founder and the CEO of [Sydekick Robotics](https://sydekick.bot/), where we are building the deployment layer for Physical AI. Previously, I was a postdoctoral researcher at the QUT Centre for Robotics (QCR), working on **robot learning** which lies at the intersection of AI and robotics with a focus on **teaching robots to intelligently plan and interact with the world** in order to solve everyday tasks. I completed my PhD at the Australian Centre for Robotic Vision (ACRV), focusing on combining reinforcement learning and control theory for safe real-world deployment. Feel free to contact me via <ranak@sydekick.bot> if you are interested in my line of research and applying it to solve real-world industrial problems, including manufacturing, product assembly, logistics, and agriculture.
 
 
 ## Publications
@@ -78,19 +78,22 @@ Pre-training for Robot Learning"</em> 2024 International Conference on Robotics 
 - _Pretraining for Robot Learning_ - Australian Institue for Machine Learning (AIML)<br />
 - _Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning_ - QUT Centre for Robotics (Mid Year Retreat)<br />
 - _Scaling Robot Learning_ - Technical University of Darmstadt <br />
-- _Accelerating Reinforcement Learning_ - Center for Cognitive Interaction Technology, University of Bielefeld
+- _Accelerating Reinforcement Learning_ - Centre for Cognitive Interaction Technology, University of Bielefeld
 
 ## Patents
+1. Method and System for Robot Feedback Data Collection and Refinement <br />
+   Patent Number AU2025900257A, US Pat. Appln. No. 19/466,305 <br />
+   Sydekick Robotics Pty. Ltd.  
 
-1. Method and System for Generating a Robot Task Plan <br />
+2. Method and System for Generating a Robot Task Plan <br />
    Patent Number au2023904229 <br />
    K. Rana, N. Suenderhauf  
 
-2. Ophthalmic Imaging Apparatus and System <br />
+3. Ophthalmic Imaging Apparatus and System <br />
    Patent Number au2017901153 <br />
    A. Jaiprakash, D. Palmer, D. G. Dansereau, T. Coppin, K. Rana, J. Roberts, R. Crawford  
    
-3. Method and System for Calibrating an Ophthalmic Imager <br /> 
+4. Method and System for Calibrating an Ophthalmic Imager <br /> 
    Patent Number au2018900513  <br />
    D. Palmer, T. Coppin, K. Rana
    
