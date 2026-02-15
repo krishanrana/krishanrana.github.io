@@ -9,9 +9,9 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://docs.google.com/forms/d/e/1FAIpQLSeKV1Ln1Y7mFm9Wuy4nELk_aTAMpRDLDhiu2EKV0wU_fptFQA/viewform?usp=sf_link"
-footer_text: "Click here if you'd like to collaborate :)"
+footer: no
+#footer_url: "https://docs.google.com/forms/d/e/1FAIpQLSeKV1Ln1Y7mFm9Wuy4nELk_aTAMpRDLDhiu2EKV0wU_fptFQA/viewform?usp=sf_link"
+#footer_text: "Click here if you'd like to collaborate :)"
 
 sass:
     style: compressed
@@ -24,8 +24,8 @@ nav:
    link: "https://scholar.google.com.au/citations?user=-hYjPxsAAAAJ&hl=en&oi=ao"
  - name: "LinkedIn"
    link: "https://www.linkedin.com/in/krishanrana/"
- - name: "Twitter"
-   link: "https://twitter.com/krshnrana"
+ - name: "X"
+   link: "https://x.com/krshnrana"
  
  
 
